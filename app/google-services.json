@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171803756100",
+    "firebase_url": "https://androidfirebase-955ad-default-rtdb.firebaseio.com",
+    "project_id": "androidfirebase-955ad",
+    "storage_bucket": "androidfirebase-955ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171803756100:android:788f87074eb1456c101e11",
+        "android_client_info": {
+          "package_name": "com.gavilan.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171803756100-jcr9sot63psri2sjbeg6dgv08i96gajm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVPyw7Gsze1kBtyNueWBl4FMPMrHkf4X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171803756100-jcr9sot63psri2sjbeg6dgv08i96gajm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
